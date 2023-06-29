@@ -52,7 +52,7 @@ public class menu : MonoBehaviour
         n_lap = 2;
         n_pista =0;
         carro_player = 0;
-        nome_carro.text="KART";
+        nome_carro.text="CAR";
 
     /*
         200

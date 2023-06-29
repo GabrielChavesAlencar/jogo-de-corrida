@@ -73,6 +73,7 @@
     <Compile Include="Assets\codigos\InstanciadordePilotoInimigo.cs" />
     <Compile Include="Assets\codigos\menu.cs" />
     <Compile Include="Assets\codigos\HUD_carro.cs" />
+    <Compile Include="Assets\codigos\botao.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
