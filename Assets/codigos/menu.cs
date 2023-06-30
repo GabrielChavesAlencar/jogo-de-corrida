@@ -50,7 +50,7 @@ public class menu : MonoBehaviour
 
         n_car = 2;
         n_lap = 2;
-        n_pista =0;
+        n_pista =1;
         carro_player = 0;
         nome_carro.text="CAR";
 
@@ -69,11 +69,11 @@ public class menu : MonoBehaviour
         n_car_text.text = n_car+"";
         n_lap_text.text = n_lap+"";
         money_text.text = "$"+ bancodedados.carregarint("money");
-        if(n_dificuldade==0){dificuldade_text.text = "VERY" +"\n"+ "EASY";}
-        if(n_dificuldade==1){dificuldade_text.text = "EASY";}
-        if(n_dificuldade==2){dificuldade_text.text = "NORMAL";}
-        if(n_dificuldade==3){dificuldade_text.text = "HARD";}
-        if(n_dificuldade==4){dificuldade_text.text = "VERY" +"\n"+ "HARD";}
+        if(n_dificuldade==0){dificuldade_text.text = "EASY"; }
+        if(n_dificuldade==1){dificuldade_text.text = "NORMAL"; }
+        if(n_dificuldade==2){dificuldade_text.text = "HARD"; }
+       // if(n_dificuldade==3){dificuldade_text.text = "HARD";}
+        //if(n_dificuldade==4){dificuldade_text.text = "VERY" +"\n"+ "HARD";}
         if(carro_player==0){valor_car_text.text = "";botao_selecionar.SetActive(true);botao_comprar.SetActive(false);}
         if(carro_player==1){
             if(bancodedados.carregarint("car1")==1){botao_selecionar.SetActive(true);botao_comprar.SetActive(false);valor_car_text.text = "";}
@@ -101,8 +101,8 @@ public class menu : MonoBehaviour
 
     public void aumentar_dificuldade(){
         n_dificuldade++;
-        if(n_dificuldade>4){
-            n_dificuldade = 4;
+        if(n_dificuldade>2){
+            n_dificuldade = 2;
         }
     }
     public void diminuir_dificuldade(){

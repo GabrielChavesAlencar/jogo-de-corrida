@@ -22,8 +22,8 @@ public class carroAI : carros
       for(int i = 0; i < render.Length; i++) {
          render[i].material = materiais[cor_carro];
       }
-
-   }
+      cor_nome = materiais[cor_carro].name;
+    }
 
     void Update()
     {

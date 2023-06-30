@@ -1460,7 +1460,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1071246764
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1776,7 +1776,7 @@ MonoBehaviour:
   dificuldade_text: {fileID: 92580882}
   image_pista: {fileID: 1833192393}
   sprite_1: {fileID: 21300000, guid: ff37b14098bfaf045b6a2800922cfc50, type: 3}
-  sprite_2: {fileID: 21300000, guid: 99a9876d9b43006429cfd4f8ad64a50d, type: 3}
+  sprite_2: {fileID: 21300000, guid: b73f5f944f3ddf343a7f7d5c09e03a89, type: 3}
   nome_carro: {fileID: 1792914896}
   image_carro: {fileID: 1865367304}
   car1: {fileID: 21300000, guid: 6b66d6c4dbd2b20479913ebc569f87bd, type: 3}
@@ -2983,7 +2983,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ff37b14098bfaf045b6a2800922cfc50, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b73f5f944f3ddf343a7f7d5c09e03a89, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3358,7 +3358,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1997824505
 RectTransform:
   m_ObjectHideFlags: 0

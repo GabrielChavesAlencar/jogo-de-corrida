@@ -52,7 +52,8 @@ public class carros : MonoBehaviour
     public int pos_temp;
     public int volta_temp;
     public int pos_volta_temp;
-
+    public string cor_nome;
+    public int tipo_carro;
 
     //rodas
     public Vector3 pos;

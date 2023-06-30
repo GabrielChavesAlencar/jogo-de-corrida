@@ -32,10 +32,11 @@ public class HUD_carro : MonoBehaviour
 
     //controle das imagens
     public Image [] images_player;
-    public Sprite [] sprites_ape;
+    public Sprite [] sprites_carro1;
+    public Sprite[] sprites_carro2;
 
 
-    
+
     private bool pausa;
     private bool contagem_dinheiro;
  
@@ -79,7 +80,63 @@ public class HUD_carro : MonoBehaviour
                 if(lista_carros[numero_do_car].posicao==pos+1){
                     //tex_pos[pos].text = lista_carros[numero_do_car].posicao+1+" th";
                     tex_nomes[pos].text  = lista_carros[numero_do_car].nome;
-                    images_player[pos].sprite = sprites_ape[lista_carros[numero_do_car].numero_player];
+
+
+                    if (lista_carros[numero_do_car].tipo_carro == 0)
+                    {
+                        if (lista_carros[numero_do_car].cor_nome == "")
+                        {
+                            images_player[pos].sprite = sprites_carro1[0];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "azul")
+                        {
+                            images_player[pos].sprite = sprites_carro1[1];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "branco")
+                        {
+                            images_player[pos].sprite = sprites_carro1[2];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "laranja")
+                        {
+                            images_player[pos].sprite = sprites_carro1[3];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "verde")
+                        {
+                            images_player[pos].sprite = sprites_carro1[4];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "vermelho metal")
+                        {
+                            images_player[pos].sprite = sprites_carro1[5];
+                        }
+                    }
+                    else if (lista_carros[numero_do_car].tipo_carro == 1)
+                    {
+                        if (lista_carros[numero_do_car].cor_nome == "")
+                        {
+                            images_player[pos].sprite = sprites_carro2[0];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "azul")
+                        {
+                            images_player[pos].sprite = sprites_carro2[1];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "branco")
+                        {
+                            images_player[pos].sprite = sprites_carro2[2];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "laranja")
+                        {
+                            images_player[pos].sprite = sprites_carro2[3];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "verde")
+                        {
+                            images_player[pos].sprite = sprites_carro2[4];
+                        }
+                        if (lista_carros[numero_do_car].cor_nome == "vermelho metal")
+                        {
+                            images_player[pos].sprite = sprites_carro2[5];
+                        }
+                    }
+                    //images_player[pos].sprite = sprites_ape[lista_carros[numero_do_car].numero_player];
                 }
             }
         }

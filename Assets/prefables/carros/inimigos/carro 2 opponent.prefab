@@ -536,6 +536,8 @@ MonoBehaviour:
   pos_temp: 0
   volta_temp: 0
   pos_volta_temp: 0
+  cor_nome: 
+  tipo_carro: 1
   pos: {x: 0, y: 0, z: 0}
   rot: {x: 0, y: 0, z: 0, w: 0}
   curvar: 0
@@ -1095,6 +1097,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 7fe4cf686567e0e4593cac532ad00a72, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 26ec2b1054cacae4993cd3736dc4c38f, type: 2}
     - target: {fileID: 919132149155446097, guid: 7fe4cf686567e0e4593cac532ad00a72, type: 3}
       propertyPath: m_Name
       value: carro 2 modelo
