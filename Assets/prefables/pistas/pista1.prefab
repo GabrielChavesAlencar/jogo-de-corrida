@@ -26,13 +26,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 58350760}
-  m_LocalRotation: {x: -0, y: -0.33627358, z: -0, w: 0.94176435}
-  m_LocalPosition: {x: -0.966, y: 0.07, z: 1.5029999}
-  m_LocalScale: {x: 0.049999997, y: 0.19999999, z: 0.3}
+  m_LocalRotation: {x: 0, y: -0.89764327, z: 0, w: 0.44072285}
+  m_LocalPosition: {x: 0.75, y: 0.07, z: -1.43}
+  m_LocalScale: {x: 0.049999997, y: 0.4, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: -39.3, z: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: -127.7, z: 0}
 --- !u!33 &58350763
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -93,13 +93,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 293886897}
-  m_LocalRotation: {x: -0, y: -0.21388303, z: -0, w: 0.97685933}
-  m_LocalPosition: {x: 2.1529999, y: 0.07, z: 1.0029999}
-  m_LocalScale: {x: 0.050000004, y: 0.19999999, z: 0.3}
+  m_LocalRotation: {x: 0, y: 0.045450144, z: 0, w: 0.99896663}
+  m_LocalPosition: {x: 2.839, y: 0.137, z: 1.119}
+  m_LocalScale: {x: 0.050000004, y: 0.4, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: -24.7, z: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 5.21, z: 0}
 --- !u!33 &293886900
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -160,13 +160,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 300159615}
-  m_LocalRotation: {x: -0, y: -0.21388303, z: -0, w: 0.97685933}
-  m_LocalPosition: {x: 2.6440003, y: 0.07, z: -0.065}
-  m_LocalScale: {x: 0.050000004, y: 0.19999999, z: 0.3}
+  m_LocalRotation: {x: 0, y: -0.6407799, z: 0, w: 0.7677247}
+  m_LocalPosition: {x: 3.542, y: 0.346, z: 0.211}
+  m_LocalScale: {x: 0.050000004, y: 0.3, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: -24.7, z: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: -79.7, z: 0}
 --- !u!33 &300159618
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -228,8 +228,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 427575331}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0057628634, y: 0, z: -2.2268913}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.01, y: 0, z: -2.12}
+  m_LocalScale: {x: 1, y: 1, z: 0.5}
   m_Children: []
   m_Father: {fileID: 1007290165}
   m_RootOrder: 0
@@ -323,8 +323,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 457560627}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.005978012, y: 0, z: 2.145984}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.01, y: 0, z: 1.81}
+  m_LocalScale: {x: 1, y: 1, z: 0.5}
   m_Children: []
   m_Father: {fileID: 1007290165}
   m_RootOrder: 1
@@ -417,13 +417,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690414458}
-  m_LocalRotation: {x: -0, y: -0.21388303, z: -0, w: 0.97685933}
-  m_LocalPosition: {x: 1.203, y: 0.07, z: 0.57}
-  m_LocalScale: {x: 0.050000004, y: 0.16700001, z: 0.2452}
+  m_LocalRotation: {x: 0, y: -0.34037948, z: 0, w: 0.94028825}
+  m_LocalPosition: {x: 2.075, y: 0.294, z: 0.719}
+  m_LocalScale: {x: 0.050000004, y: 0.8, z: 0.6}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: -24.7, z: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: -39.8, z: 0}
 --- !u!33 &690414460
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -485,13 +485,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 944506864}
-  m_LocalRotation: {x: -0, y: -0.33627358, z: -0, w: 0.94176435}
-  m_LocalPosition: {x: -0.534, y: 0.07, z: 0.9749999}
-  m_LocalScale: {x: 0.049999997, y: 0.19999999, z: 0.3}
+  m_LocalRotation: {x: 0, y: -0.1103415, z: 0, w: 0.9938938}
+  m_LocalPosition: {x: 1.98, y: 0.188, z: -1.95}
+  m_LocalScale: {x: 0.049999997, y: 0.4, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: -39.3, z: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: -12.67, z: 0}
 --- !u!33 &944506867
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -549,16 +549,16 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1007290164}
-  m_LocalRotation: {x: -0, y: -0.21388303, z: -0, w: 0.97685933}
-  m_LocalPosition: {x: 1.1999999, y: 0.0276, z: 0.575}
-  m_LocalScale: {x: 0.050000004, y: 0.39999998, z: 0.07}
+  m_LocalRotation: {x: 0, y: -0.34857208, z: 0, w: 0.937282}
+  m_LocalPosition: {x: 2.07, y: 0.328, z: 0.737}
+  m_LocalScale: {x: 0.050000004, y: 0.8, z: 0.14}
   m_Children:
   - {fileID: 427575335}
   - {fileID: 457560631}
   - {fileID: 1930335366}
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: -24.7, z: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: -40.8, z: 0}
 --- !u!1 &1582443447
 GameObject:
   m_ObjectHideFlags: 0
@@ -585,13 +585,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1582443447}
-  m_LocalRotation: {x: -0, y: -0.05050587, z: -0, w: 0.9987238}
-  m_LocalPosition: {x: 0.825, y: 0.07, z: -0.675}
-  m_LocalScale: {x: 0.049999997, y: 0.19999999, z: 0.3}
+  m_LocalRotation: {x: 0, y: -0.45243475, z: 0, w: 0.89179754}
+  m_LocalPosition: {x: 2.903, y: 0.07, z: -0.739}
+  m_LocalScale: {x: 0.049999997, y: 0.4, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: -5.79, z: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: -53.8, z: 0}
 --- !u!33 &1582443450
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -653,11 +653,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1694460412}
   m_LocalRotation: {x: -0, y: -0.057563975, z: -0, w: 0.99834186}
-  m_LocalPosition: {x: -0.07299999, y: 0.063499995, z: 0.020999985}
-  m_LocalScale: {x: 0.099999994, y: 0.19999999, z: 0.3}
+  m_LocalPosition: {x: 0.515, y: -0.003, z: -0.026}
+  m_LocalScale: {x: 0.099999994, y: 0.4, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: -6.6, z: 0}
 --- !u!33 &1694460415
 MeshFilter:
@@ -814,13 +814,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1950968590}
-  m_LocalRotation: {x: -0, y: 0.17227295, z: -0, w: 0.9850493}
-  m_LocalPosition: {x: 0.765, y: 0.07, z: 3.5430002}
-  m_LocalScale: {x: 0.050000004, y: 0.19999999, z: 0.29999998}
+  m_LocalRotation: {x: 0, y: 0.24446127, z: 0, w: 0.9696591}
+  m_LocalPosition: {x: 0.27, y: 0.07, z: -1.04}
+  m_LocalScale: {x: 0.050000004, y: 0.4, z: 0.8}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 19.84, z: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 28.3, z: 0}
 --- !u!33 &1950968593
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -943,6 +943,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 45.728542
+--- !u!1 &44017568716407278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7356665896003348896}
+  - component: {fileID: 3569910325807816882}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7356665896003348896
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44017568716407278}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 319.3473, y: 19.545174, z: -308.25775}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 47
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3569910325807816882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44017568716407278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 117.76692
 --- !u!1 &56214693586284637
 GameObject:
   m_ObjectHideFlags: 0
@@ -987,6 +1031,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 64.79893
+--- !u!1 &56846677123448317
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8893810942424185619}
+  - component: {fileID: 7637542750176631911}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8893810942424185619
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 56846677123448317}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 533, y: 46.710938, z: -42}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7637542750176631911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 56846677123448317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 89.242226
 --- !u!1 &58620162273064428
 GameObject:
   m_ObjectHideFlags: 0
@@ -1031,6 +1119,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 88.85501
+--- !u!1 &67004446805350150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3769795082424640712}
+  - component: {fileID: 8028240075004288518}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3769795082424640712
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67004446805350150}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 562.39404, y: 49.63363, z: 30.634783}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8028240075004288518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67004446805350150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 100.532845
 --- !u!1 &105493698040001669
 GameObject:
   m_ObjectHideFlags: 0
@@ -1163,6 +1295,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 68.79136
+--- !u!1 &122011196803382860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6669296566438196892}
+  - component: {fileID: 2757007764271650740}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6669296566438196892
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 122011196803382860}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 542.29614, y: 53.359776, z: 105.11981}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2757007764271650740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 122011196803382860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 65.93161
 --- !u!1 &141399006635817013
 GameObject:
   m_ObjectHideFlags: 0
@@ -1295,6 +1471,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 130.21066
+--- !u!1 &191783559516661689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 476788330243461866}
+  - component: {fileID: 9042316997979520965}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &476788330243461866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191783559516661689}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 123.50095, y: 10.092466, z: -217.80472}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 65
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &9042316997979520965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191783559516661689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 69.80116
 --- !u!1 &211937522540818232
 GameObject:
   m_ObjectHideFlags: 0
@@ -1383,6 +1603,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 39.13967
+--- !u!1 &245807564735459050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9129346940101672483}
+  - component: {fileID: 1842066766773425930}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9129346940101672483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245807564735459050}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 528.1498, y: 45.54688, z: -56.70749}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1842066766773425930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 245807564735459050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 87.5044
 --- !u!1 &321341750002541225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1571,7 +1835,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos5
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1582,13 +1846,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 384367506639384179}
-  m_LocalRotation: {x: 0, y: -0.8396198, z: 0, w: 0.5431745}
-  m_LocalPosition: {x: 1.797, y: -0.0091, z: 0.802}
+  m_LocalRotation: {x: 0, y: 0.5785696, z: 0, w: 0.81563306}
+  m_LocalPosition: {x: 1.321, y: 0.0981, z: 0.225}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 18
-  m_LocalEulerAnglesHint: {x: 0, y: -114.2, z: 0}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 70.7, z: 0}
 --- !u!1 &424830494118969925
 GameObject:
   m_ObjectHideFlags: 0
@@ -1633,6 +1897,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 64.344826
+--- !u!1 &433165399638979765
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3564903528930434408}
+  - component: {fileID: 4705008613747078333}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3564903528930434408
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 433165399638979765}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 553.317, y: 52.382755, z: 81.13663}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4705008613747078333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 433165399638979765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 82.412224
 --- !u!1 &441558766429856421
 GameObject:
   m_ObjectHideFlags: 0
@@ -1677,6 +1985,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 47.250854
+--- !u!1 &460820953820343337
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8911486057809160526}
+  - component: {fileID: 823725677822216153}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8911486057809160526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460820953820343337}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 124.3899, y: 12.29616, z: -230.77179}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 64
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &823725677822216153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460820953820343337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 80.7653
 --- !u!1 &463130851813438258
 GameObject:
   m_ObjectHideFlags: 0
@@ -1897,6 +2249,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 64.7623
+--- !u!1 &546902199908448999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1235110625489294567}
+  - component: {fileID: 4476682546609098869}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1235110625489294567
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546902199908448999}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 418.60577, y: 14.286688, z: 160.32835}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4476682546609098869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546902199908448999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 79.82098
 --- !u!1 &583761714133481358
 GameObject:
   m_ObjectHideFlags: 0
@@ -1985,6 +2381,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 74.18215
+--- !u!1 &615077098517288655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5879675644115219262}
+  - component: {fileID: 1709210800246662374}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5879675644115219262
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615077098517288655}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 391.12103, y: 15.810862, z: -253.50552}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 43
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1709210800246662374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615077098517288655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 122.79833
+--- !u!1 &621248279666465736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6586407250959912236}
+  - component: {fileID: 1108148015729101850}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6586407250959912236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621248279666465736}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 467.23123, y: 30.282341, z: -135.75177}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1108148015729101850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621248279666465736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 115.41418
 --- !u!1 &626278045478614888
 GameObject:
   m_ObjectHideFlags: 0
@@ -2014,6 +2498,7 @@ Transform:
   m_LocalScale: {x: 160, y: 160, z: 160}
   m_Children:
   - {fileID: 1097266345319655285}
+  - {fileID: 4819970319983221282}
   - {fileID: 626278045713446994}
   - {fileID: 690414461}
   - {fileID: 1007290165}
@@ -2038,6 +2523,7 @@ Transform:
   - {fileID: 7406924567185866332}
   - {fileID: 1883244014882694424}
   - {fileID: 6240842276397284856}
+  - {fileID: 4640175850383282033}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2108,7 +2594,7 @@ Transform:
   m_LocalScale: {x: 4, y: 1, z: 4}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &626278045713446995
 MeshFilter:
@@ -2173,6 +2659,50 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &628273257684730071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4028694376228071696}
+  - component: {fileID: 2243914177100586463}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4028694376228071696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 628273257684730071}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 96, y: 22.4, z: -183.73987}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 68
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2243914177100586463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 628273257684730071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 77.95514
 --- !u!1 &659996296839912690
 GameObject:
   m_ObjectHideFlags: 0
@@ -2261,6 +2791,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 155.03072
+--- !u!1 &787659832068813092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6308703256435192214}
+  - component: {fileID: 5576753520669697284}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6308703256435192214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787659832068813092}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 143.37259, y: 24.103756, z: -317.42352}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 57
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5576753520669697284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787659832068813092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 75.37913
 --- !u!1 &794796692454482423
 GameObject:
   m_ObjectHideFlags: 0
@@ -2745,6 +3319,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 62.571888
+--- !u!1 &923965234216884305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3872575338838517148}
+  - component: {fileID: 4716148286563199636}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3872575338838517148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923965234216884305}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 338.29797, y: 18.079273, z: -297.2641}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 46
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4716148286563199636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923965234216884305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 123.220116
 --- !u!1 &941200506370573408
 GameObject:
   m_ObjectHideFlags: 0
@@ -3361,6 +3979,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 65.33843
+--- !u!1 &1311796140984127521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3357535778318437597}
+  - component: {fileID: 1069491362232678211}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3357535778318437597
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311796140984127521}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 207.05966, y: 24.593306, z: -337.30173}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 53
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1069491362232678211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311796140984127521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 99.46425
 --- !u!1 &1314009006367247775
 GameObject:
   m_ObjectHideFlags: 0
@@ -3449,6 +4111,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 54.08072
+--- !u!1 &1333300221934789981
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 942332378974821791}
+  - component: {fileID: 2729718670847997341}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &942332378974821791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333300221934789981}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.099772, y: 3.3047764, z: -77.06556}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 80
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2729718670847997341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333300221934789981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 48.983974
 --- !u!1 &1355906543537442418
 GameObject:
   m_ObjectHideFlags: 0
@@ -3461,7 +4167,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos4
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3472,13 +4178,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1355906543537442418}
-  m_LocalRotation: {x: 0, y: -0.8503063, z: 0, w: 0.5262882}
-  m_LocalPosition: {x: 1.5900002, y: -0.0091, z: 0.802}
+  m_LocalRotation: {x: 0, y: 0.35787907, z: 0, w: 0.933768}
+  m_LocalPosition: {x: 1.583, y: 0.1496, z: 0.1781}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 0, y: -116.49, z: 0}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 41.94, z: 0}
 --- !u!1 &1421125575126256229
 GameObject:
   m_ObjectHideFlags: 0
@@ -3523,6 +4229,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 60
+--- !u!1 &1475823874485756272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3292271461424713256}
+  - component: {fileID: 6576355648309197821}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3292271461424713256
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1475823874485756272}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 513.47046, y: 42.549522, z: -84.10827}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6576355648309197821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1475823874485756272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 83.173706
+--- !u!1 &1485113362861206879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2207279126482535504}
+  - component: {fileID: 3442462326021638423}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2207279126482535504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1485113362861206879}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 466.59308, y: 26.119654, z: 171.15958}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3442462326021638423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1485113362861206879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 49.72118
 --- !u!1 &1492369236109966479
 GameObject:
   m_ObjectHideFlags: 0
@@ -3567,6 +4361,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 131.75786
+--- !u!1 &1506541914960108375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2679919783992003194}
+  - component: {fileID: 961849454389189374}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2679919783992003194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506541914960108375}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -13.784295, y: 4.622676, z: -62.44739}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 82
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &961849454389189374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506541914960108375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 40.809914
 --- !u!1 &1535468430913758366
 GameObject:
   m_ObjectHideFlags: 0
@@ -3655,6 +4493,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 52.95648
+--- !u!1 &1589438968431457020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 658792066737161062}
+  - component: {fileID: 7651722941218671947}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &658792066737161062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589438968431457020}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 243.19322, y: 23.668613, z: -333.71185}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 51
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7651722941218671947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589438968431457020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 106.613716
 --- !u!1 &1638151620255621965
 GameObject:
   m_ObjectHideFlags: 0
@@ -3787,6 +4669,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 109.534096
+--- !u!1 &1797152564301874034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2176027417969623607}
+  - component: {fileID: 3433599735287075275}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2176027417969623607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797152564301874034}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 547.52875, y: 52.754272, z: 94.68075}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3433599735287075275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797152564301874034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 75.45858
 --- !u!1 &1815867456240831263
 GameObject:
   m_ObjectHideFlags: 0
@@ -3831,6 +4757,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 115.78859
+--- !u!1 &1848659038704118799
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8943115947387016927}
+  - component: {fileID: 1068650752214441705}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8943115947387016927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1848659038704118799}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 560.687, y: 50.578617, z: 49.456135}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1068650752214441705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1848659038704118799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 94.76236
 --- !u!1 &1960836006626400633
 GameObject:
   m_ObjectHideFlags: 0
@@ -3887,7 +4857,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos6
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3898,13 +4868,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1983791939402177814}
-  m_LocalRotation: {x: 0, y: -0.8251135, z: 0, w: 0.56496716}
-  m_LocalPosition: {x: 1.945, y: -0.0091, z: 0.957}
+  m_LocalRotation: {x: -0, y: -0.77477914, z: 0, w: -0.63223207}
+  m_LocalPosition: {x: 1.188, y: 0.0151, z: 0.041}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 19
-  m_LocalEulerAnglesHint: {x: 0, y: -111.2, z: 0}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: -258.43, z: 0}
 --- !u!1 &2007969377433312235
 GameObject:
   m_ObjectHideFlags: 0
@@ -4005,7 +4975,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos2
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -4016,13 +4986,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035074345546575908}
-  m_LocalRotation: {x: 0, y: -0.8503063, z: 0, w: 0.5262882}
-  m_LocalPosition: {x: 1.3180001, y: -0.0091, z: 0.676}
+  m_LocalRotation: {x: 0, y: 0.43813583, z: 0, w: 0.8989088}
+  m_LocalPosition: {x: 1.942, y: 0.1348, z: 0.437}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 15
-  m_LocalEulerAnglesHint: {x: 0, y: -116.49, z: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 51.97, z: 0}
 --- !u!1 &2041309451897715827
 GameObject:
   m_ObjectHideFlags: 0
@@ -4507,6 +5477,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 60
+--- !u!1 &2178793937313490322
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6675948408577493960}
+  - component: {fileID: 7469559086067992737}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6675948408577493960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2178793937313490322}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 128.08038, y: 21.859634, z: -298.51935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 59
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7469559086067992737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2178793937313490322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 71.250145
 --- !u!1 &2186788441306115680
 GameObject:
   m_ObjectHideFlags: 0
@@ -4563,7 +5577,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos7
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -4574,13 +5588,57 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2201670251600694132}
-  m_LocalRotation: {x: 0, y: -0.82952523, z: 0, w: 0.55846936}
-  m_LocalPosition: {x: 2.09, y: -0.0091, z: 0.93}
+  m_LocalRotation: {x: -0, y: -0.6652304, z: 0, w: -0.7466382}
+  m_LocalPosition: {x: 0.871, y: -0.0852, z: 0.117}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 20
-  m_LocalEulerAnglesHint: {x: 0, y: -112.1, z: 0}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: -276.6, z: 0}
+--- !u!1 &2212066291132691049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5394241185662645059}
+  - component: {fileID: 2648146581176140761}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5394241185662645059
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2212066291132691049}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 493.55804, y: 38.0618, z: -108.48989}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2648146581176140761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2212066291132691049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 99.12286
 --- !u!1 &2214596251159952696
 GameObject:
   m_ObjectHideFlags: 0
@@ -4977,6 +6035,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 112.71849
+--- !u!1 &2315660857515132004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4372617647957121883}
+  - component: {fileID: 4535976664181264442}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4372617647957121883
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2315660857515132004}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 121.30419, y: 18.76987, z: -273.39313}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 61
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4535976664181264442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2315660857515132004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 74.599785
 --- !u!1 &2321230899685935397
 GameObject:
   m_ObjectHideFlags: 0
@@ -5065,6 +6167,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 35.23721
+--- !u!1 &2344011309281913179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8687429341419124014}
+  - component: {fileID: 4231382580340594350}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8687429341419124014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2344011309281913179}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 31.451433, y: -0.6747159, z: -130.3856}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 73
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4231382580340594350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2344011309281913179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 91.67334
+--- !u!1 &2351855794270984268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3515772006328527744}
+  - component: {fileID: 8311401754593523097}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3515772006328527744
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2351855794270984268}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 52.26589, y: -21.298016, z: 6.425402}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 92
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8311401754593523097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2351855794270984268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 106.42691
 --- !u!1 &2364806926271203889
 GameObject:
   m_ObjectHideFlags: 0
@@ -5077,7 +6267,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos1
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5088,13 +6278,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2364806926271203889}
-  m_LocalRotation: {x: 0, y: -0.8503063, z: 0, w: 0.5262882}
-  m_LocalPosition: {x: 1.2120001, y: 0, z: 0.538}
+  m_LocalRotation: {x: 0, y: 0.35347486, z: 0, w: 0.93544406}
+  m_LocalPosition: {x: 1.951, y: 0.12, z: 0.635}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: -116.49, z: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 41.4, z: 0}
 --- !u!1 &2372486353247717274
 GameObject:
   m_ObjectHideFlags: 0
@@ -5195,7 +6385,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos3
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5206,13 +6396,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2512385961568120372}
-  m_LocalRotation: {x: 0, y: -0.8503063, z: 0, w: 0.5262882}
-  m_LocalPosition: {x: 1.478, y: -0.0091, z: 0.661}
+  m_LocalRotation: {x: 0, y: 0.4863354, z: 0, w: 0.87377226}
+  m_LocalPosition: {x: 1.674, y: 0.1617, z: 0.407}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 16
-  m_LocalEulerAnglesHint: {x: 0, y: -116.49, z: 0}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 58.2, z: 0}
 --- !u!1 &2538190093794295034
 GameObject:
   m_ObjectHideFlags: 0
@@ -5257,6 +6447,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 79.67782
+--- !u!1 &2547022370402648611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 705538090691420530}
+  - component: {fileID: 5068490255656846689}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &705538090691420530
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2547022370402648611}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 441.42548, y: 25.634169, z: -171.86871}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5068490255656846689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2547022370402648611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 132.11522
+--- !u!1 &2550552205187705078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4470448732861877725}
+  - component: {fileID: 633039356636083101}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4470448732861877725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550552205187705078}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 433.53668, y: 19.72651, z: -201.2765}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &633039356636083101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550552205187705078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 141.08519
 --- !u!1 &2567112460462231445
 GameObject:
   m_ObjectHideFlags: 0
@@ -5301,6 +6579,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 56.976402
+--- !u!1 &2596556932073737136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6871562923748691319}
+  - component: {fileID: 8597097535506201184}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6871562923748691319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2596556932073737136}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 257.09177, y: 26.99406, z: 51.65458}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 102
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8597097535506201184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2596556932073737136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 128.81816
 --- !u!1 &2616334040738528462
 GameObject:
   m_ObjectHideFlags: 0
@@ -5345,6 +6667,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 137.01343
+--- !u!1 &2616492761543201824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 934005384373964749}
+  - component: {fileID: 7833808875771492242}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &934005384373964749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2616492761543201824}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 458.06363, y: 22.945667, z: 172.4086}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7833808875771492242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2616492761543201824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 60.199383
 --- !u!1 &2621102641830471873
 GameObject:
   m_ObjectHideFlags: 0
@@ -5785,6 +7151,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 170.98003
+--- !u!1 &2780349599986035260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5334432066546921880}
+  - component: {fileID: 8671056547666699099}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5334432066546921880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2780349599986035260}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 479.79147, y: 31.951113, z: 166.52054}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8671056547666699099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2780349599986035260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 42.16534
 --- !u!1 &2787046773993961597
 GameObject:
   m_ObjectHideFlags: 0
@@ -5917,6 +7327,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 84.27433
+--- !u!1 &2795339706676263417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3149732713740511077}
+  - component: {fileID: 681424892518653352}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3149732713740511077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2795339706676263417}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.056969, y: 2.3011672, z: -38.468758}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 86
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &681424892518653352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2795339706676263417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 41.001293
 --- !u!1 &2810245204912221406
 GameObject:
   m_ObjectHideFlags: 0
@@ -5961,6 +7415,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 45.389626
+--- !u!1 &2858575756285292789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 401498048592924}
+  - component: {fileID: 1344201814286111118}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &401498048592924
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2858575756285292789}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 194.49895, y: 9.0566845, z: 37.94169}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 99
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1344201814286111118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2858575756285292789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 124.78547
 --- !u!1 &2869706285867004977
 GameObject:
   m_ObjectHideFlags: 0
@@ -6093,6 +7591,138 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 134.34854
+--- !u!1 &2949936996664585758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8351694171433089778}
+  - component: {fileID: 5050851737416926268}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8351694171433089778
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2949936996664585758}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 432.2, y: 16.683285, z: 163}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5050851737416926268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2949936996664585758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 77.20695
+--- !u!1 &2953741823293298667
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4505952622183616845}
+  - component: {fileID: 7627942071716439203}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4505952622183616845
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2953741823293298667}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 154.2234, y: -7.869954, z: 30.943823}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 97
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7627942071716439203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2953741823293298667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 127.44642
+--- !u!1 &2961652111226088039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7027443433397728722}
+  - component: {fileID: 6115957462023044827}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7027443433397728722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2961652111226088039}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 555.5, y: 48.728226, z: 4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6115957462023044827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2961652111226088039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 93.72509
 --- !u!1 &2961930701637240036
 GameObject:
   m_ObjectHideFlags: 0
@@ -6269,6 +7899,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 34.86408
+--- !u!1 &3032874994049161388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 418994120942483050}
+  - component: {fileID: 2651750158746470319}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &418994120942483050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032874994049161388}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 45.260162, y: -0.3724525, z: -140.58456}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 72
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2651750158746470319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032874994049161388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 92.49854
 --- !u!1 &3074281336949487438
 GameObject:
   m_ObjectHideFlags: 0
@@ -6357,6 +8031,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 63.910923
+--- !u!1 &3160835505716357724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2637102254041012246}
+  - component: {fileID: 1388894593344031138}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2637102254041012246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3160835505716357724}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 447.40176, y: 19.77182, z: 172.90839}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1388894593344031138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3160835505716357724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 70.861374
 --- !u!1 &3177156597564487371
 GameObject:
   m_ObjectHideFlags: 0
@@ -6401,6 +8119,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 111.49975
+--- !u!1 &3220188713788556852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2410767836743172050}
+  - component: {fileID: 7683728385138830109}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2410767836743172050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3220188713788556852}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.74855, y: 0.20276892, z: -31.741648}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 87
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7683728385138830109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3220188713788556852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 52.333107
 --- !u!1 &3326410816620171362
 GameObject:
   m_ObjectHideFlags: 0
@@ -6533,6 +8295,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 113.54427
+--- !u!1 &3376968792146986072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9096832693583903049}
+  - component: {fileID: 7161105218261291179}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9096832693583903049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3376968792146986072}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 91.368614, y: -24.017353, z: 18.758469}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 94
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7161105218261291179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3376968792146986072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 124.37505
 --- !u!1 &3380408398799075942
 GameObject:
   m_ObjectHideFlags: 0
@@ -6577,6 +8383,141 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 49.140167
+--- !u!1 &3387678174165649785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4640175850383282033}
+  m_Layer: 0
+  m_Name: novo way point
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4640175850383282033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3387678174165649785}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.00625, y: 0.00625, z: 0.00625}
+  m_Children:
+  - {fileID: 4567290320090873112}
+  - {fileID: 8437883104116019325}
+  - {fileID: 8513953258756885816}
+  - {fileID: 7420161513694209726}
+  - {fileID: 1235110625489294567}
+  - {fileID: 8351694171433089778}
+  - {fileID: 2637102254041012246}
+  - {fileID: 934005384373964749}
+  - {fileID: 2207279126482535504}
+  - {fileID: 712964007588729468}
+  - {fileID: 5334432066546921880}
+  - {fileID: 7906016361029578034}
+  - {fileID: 5443630926876153941}
+  - {fileID: 1730992275915219760}
+  - {fileID: 5070764548385640770}
+  - {fileID: 7610496306750922652}
+  - {fileID: 6257282232599060046}
+  - {fileID: 658227138156014025}
+  - {fileID: 6347053874664434667}
+  - {fileID: 6149219165537960233}
+  - {fileID: 6410637578016246170}
+  - {fileID: 4884567479490970163}
+  - {fileID: 6669296566438196892}
+  - {fileID: 2176027417969623607}
+  - {fileID: 3564903528930434408}
+  - {fileID: 6972825633331280859}
+  - {fileID: 8943115947387016927}
+  - {fileID: 3769795082424640712}
+  - {fileID: 7027443433397728722}
+  - {fileID: 1190262480825860700}
+  - {fileID: 8893810942424185619}
+  - {fileID: 9129346940101672483}
+  - {fileID: 8428178463811465761}
+  - {fileID: 3292271461424713256}
+  - {fileID: 4705333617574120675}
+  - {fileID: 5394241185662645059}
+  - {fileID: 4592188624555504582}
+  - {fileID: 6586407250959912236}
+  - {fileID: 4265075951011957568}
+  - {fileID: 705538090691420530}
+  - {fileID: 4470448732861877725}
+  - {fileID: 3268660322402769929}
+  - {fileID: 3912562536951082333}
+  - {fileID: 5879675644115219262}
+  - {fileID: 1186312716084676359}
+  - {fileID: 1542385388894034886}
+  - {fileID: 3872575338838517148}
+  - {fileID: 7356665896003348896}
+  - {fileID: 3970130610018236538}
+  - {fileID: 1617532800602276745}
+  - {fileID: 389604013049400078}
+  - {fileID: 658792066737161062}
+  - {fileID: 5281849016824723743}
+  - {fileID: 3357535778318437597}
+  - {fileID: 5643331746877531054}
+  - {fileID: 7198436730666368976}
+  - {fileID: 3151416363560144231}
+  - {fileID: 6308703256435192214}
+  - {fileID: 5661561517508382909}
+  - {fileID: 6675948408577493960}
+  - {fileID: 1700434678189457820}
+  - {fileID: 4372617647957121883}
+  - {fileID: 4808561385047127469}
+  - {fileID: 8828839735749363045}
+  - {fileID: 8911486057809160526}
+  - {fileID: 476788330243461866}
+  - {fileID: 8211693112155686486}
+  - {fileID: 663018681736323208}
+  - {fileID: 4028694376228071696}
+  - {fileID: 5650786251585833093}
+  - {fileID: 3553701831836177303}
+  - {fileID: 3787797677577060488}
+  - {fileID: 418994120942483050}
+  - {fileID: 8687429341419124014}
+  - {fileID: 1860257608442035672}
+  - {fileID: 4122108469821568389}
+  - {fileID: 1841074882873257660}
+  - {fileID: 4789282084638363244}
+  - {fileID: 7464896029743062719}
+  - {fileID: 3961513320160702794}
+  - {fileID: 942332378974821791}
+  - {fileID: 5562407675651840179}
+  - {fileID: 2679919783992003194}
+  - {fileID: 8665035251560035744}
+  - {fileID: 8904849784630606792}
+  - {fileID: 7635084122728205835}
+  - {fileID: 3149732713740511077}
+  - {fileID: 2410767836743172050}
+  - {fileID: 8080103458603624137}
+  - {fileID: 7547745284497337325}
+  - {fileID: 8238648537986278598}
+  - {fileID: 1232969055582884281}
+  - {fileID: 3515772006328527744}
+  - {fileID: 2734353313267102105}
+  - {fileID: 9096832693583903049}
+  - {fileID: 7904265855477321701}
+  - {fileID: 28877648003773826}
+  - {fileID: 4505952622183616845}
+  - {fileID: 2264966208378640300}
+  - {fileID: 401498048592924}
+  - {fileID: 1257220413216813141}
+  - {fileID: 9122481679409919704}
+  - {fileID: 6871562923748691319}
+  - {fileID: 1635380954764229382}
+  - {fileID: 8414143750028597803}
+  m_Father: {fileID: 626278045478614887}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3392985124226727094
 GameObject:
   m_ObjectHideFlags: 0
@@ -6885,6 +8826,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 60.74977
+--- !u!1 &3461586260047037858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4122108469821568389}
+  - component: {fileID: 4176329219101321631}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4122108469821568389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3461586260047037858}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.005412, y: -0.5003137, z: -111.901764}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 75
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4176329219101321631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3461586260047037858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 69.47893
+--- !u!1 &3462855594503676256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2734353313267102105}
+  - component: {fileID: 5171412678301487629}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2734353313267102105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3462855594503676256}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 70.57103, y: -24.183846, z: 12.363447}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 93
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5171412678301487629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3462855594503676256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 116.74562
 --- !u!1 &3483256429004359023
 GameObject:
   m_ObjectHideFlags: 0
@@ -6973,6 +9002,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 68.52809
+--- !u!1 &3561545437562330110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1186312716084676359}
+  - component: {fileID: 9131946223304108780}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1186312716084676359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3561545437562330110}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 374.15707, y: 16.04928, z: -270.1617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 44
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &9131946223304108780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3561545437562330110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 125.80436
 --- !u!1 &3572514134929288288
 GameObject:
   m_ObjectHideFlags: 0
@@ -7193,6 +9266,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 67.77087
+--- !u!1 &3640697321470778351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3970130610018236538}
+  - component: {fileID: 3900601290010052710}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3970130610018236538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3640697321470778351}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 300.3571, y: 20.770426, z: -317.0646}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 48
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3900601290010052710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3640697321470778351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 112.27338
 --- !u!1 &3676261458111150568
 GameObject:
   m_ObjectHideFlags: 0
@@ -7369,6 +9486,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 30.563747
+--- !u!1 &3714980207592301003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8828839735749363045}
+  - component: {fileID: 4689076418525956514}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8828839735749363045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3714980207592301003}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 123.41836, y: 15.1319065, z: -246.22705}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 63
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4689076418525956514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3714980207592301003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 83.49843
 --- !u!1 &3721306526005754881
 GameObject:
   m_ObjectHideFlags: 0
@@ -7413,6 +9574,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 76.644745
+--- !u!1 &3722337566477685772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4592188624555504582}
+  - component: {fileID: 2893758394314555210}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4592188624555504582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3722337566477685772}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 479.59872, y: 33.07317, z: -121.048416}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2893758394314555210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3722337566477685772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 112.27773
+--- !u!1 &3729590965300318274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3961513320160702794}
+  - component: {fileID: 7776359673499592905}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3961513320160702794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3729590965300318274}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.922035, y: 2.2357292, z: -84.55056}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 79
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7776359673499592905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3729590965300318274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 47.778934
 --- !u!1 &3776399582789554882
 GameObject:
   m_ObjectHideFlags: 0
@@ -7501,6 +9750,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 76.43971
+--- !u!1 &3784634967090643359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4705333617574120675}
+  - component: {fileID: 3753921052451748913}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4705333617574120675
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3784634967090643359}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 504.30463, y: 39.395767, z: -95.87086}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3753921052451748913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3784634967090643359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 94.00267
 --- !u!1 &3836797994760162993
 GameObject:
   m_ObjectHideFlags: 0
@@ -7545,6 +9838,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 146.78438
+--- !u!1 &3843894591483932699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7906016361029578034}
+  - component: {fileID: 54959101422332275}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7906016361029578034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3843894591483932699}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 485.37512, y: 34.46647, z: 163.17285}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &54959101422332275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3843894591483932699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 39.609985
 --- !u!1 &3909450470711288891
 GameObject:
   m_ObjectHideFlags: 0
@@ -7985,6 +10322,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 49.28871
+--- !u!1 &4107325501753007655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5281849016824723743}
+  - component: {fileID: 1828814163640648125}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5281849016824723743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4107325501753007655}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 226.05545, y: 24.091265, z: -336.06143}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 52
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1828814163640648125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4107325501753007655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 103.494606
+--- !u!1 &4154097197084705138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4567290320090873112}
+  - component: {fileID: 1460467789443811462}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4567290320090873112
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4154097197084705138}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 361, y: 13.071871, z: 120.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1460467789443811462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4154097197084705138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 72.38649
 --- !u!1 &4183348127827589073
 GameObject:
   m_ObjectHideFlags: 0
@@ -8073,6 +10498,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 109.91602
+--- !u!1 &4194383934205368974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8437883104116019325}
+  - component: {fileID: 4632519809833154830}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8437883104116019325
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4194383934205368974}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 372.16388, y: 12.0441475, z: 129.88783}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4632519809833154830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4194383934205368974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 79.841835
 --- !u!1 &4209970976025987464
 GameObject:
   m_ObjectHideFlags: 0
@@ -8205,6 +10674,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 58.027203
+--- !u!1 &4266660461902627911
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8238648537986278598}
+  - component: {fileID: 106036239763906923}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8238648537986278598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4266660461902627911}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 22.514769, y: -12.201429, z: -7.3396993}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 90
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &106036239763906923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4266660461902627911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 88.04798
 --- !u!1 &4286378270087901594
 GameObject:
   m_ObjectHideFlags: 0
@@ -8789,7 +11302,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos9
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -8800,13 +11313,57 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4416003484725826618}
-  m_LocalRotation: {x: 0, y: -0.76040596, z: 0, w: 0.6494481}
-  m_LocalPosition: {x: 2.501, y: -0.0091, z: 1.068}
+  m_LocalRotation: {x: -0, y: -0.51951927, z: 0, w: -0.8544588}
+  m_LocalPosition: {x: 0.293, y: -0.1267, z: -0.006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 22
-  m_LocalEulerAnglesHint: {x: 0, y: -99, z: 0}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: -297.4, z: 0}
+--- !u!1 &4417601636801115574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8414143750028597803}
+  - component: {fileID: 4014894416287956076}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8414143750028597803
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417601636801115574}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 303.1, y: 25.84555, z: 86.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 104
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4014894416287956076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417601636801115574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 134.65427
 --- !u!1 &4427053346974995483
 GameObject:
   m_ObjectHideFlags: 0
@@ -8895,6 +11452,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 78.90915
+--- !u!1 &4434282476580539193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5650786251585833093}
+  - component: {fileID: 1085267171517111423}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5650786251585833093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4434282476580539193}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 76.5, y: 3.1264904, z: -167.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 69
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1085267171517111423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4434282476580539193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 83.188484
 --- !u!1 &4436569472389642314
 GameObject:
   m_ObjectHideFlags: 0
@@ -8939,6 +11540,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 111.508575
+--- !u!1 &4441185015891784299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1542385388894034886}
+  - component: {fileID: 1202031128125224703}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1542385388894034886
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4441185015891784299}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 356.7806, y: 17.044413, z: -284.49844}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 45
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1202031128125224703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4441185015891784299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 122.014404
 --- !u!1 &4465106307662409110
 GameObject:
   m_ObjectHideFlags: 0
@@ -9643,6 +12288,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 86.080635
+--- !u!1 &4714478797684321977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4789282084638363244}
+  - component: {fileID: 2645676871322052107}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4789282084638363244
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4714478797684321977}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.2057683, y: 0.36604977, z: -97.87311}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 77
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2645676871322052107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4714478797684321977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 43.702156
 --- !u!1 &4716329410465306770
 GameObject:
   m_ObjectHideFlags: 0
@@ -10039,6 +12728,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 66.018036
+--- !u!1 &4797004054886630466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5443630926876153941}
+  - component: {fileID: 3602664855348944362}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5443630926876153941
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4797004054886630466}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 490.56967, y: 36.87397, z: 160.02281}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3602664855348944362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4797004054886630466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 39.82602
 --- !u!1 &4802684755991714374
 GameObject:
   m_ObjectHideFlags: 0
@@ -10303,6 +13036,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 112.83055
+--- !u!1 &4912531009297654832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1700434678189457820}
+  - component: {fileID: 6579311271338692633}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1700434678189457820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4912531009297654832}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 122.870346, y: 19.280066, z: -286.15173}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 60
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6579311271338692633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4912531009297654832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 71.90037
+--- !u!1 &4932539754871853132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3912562536951082333}
+  - component: {fileID: 8006447413791269381}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3912562536951082333
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4932539754871853132}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 404.8751, y: 16.62719, z: -238.4935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 42
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8006447413791269381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4932539754871853132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 126.68432
 --- !u!1 &4964840489317032903
 GameObject:
   m_ObjectHideFlags: 0
@@ -10699,6 +13520,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 79.622574
+--- !u!1 &5157348677508703507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1190262480825860700}
+  - component: {fileID: 3497184608268165306}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1190262480825860700
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5157348677508703507}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 536.9396, y: 47.805607, z: -26.160624}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3497184608268165306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5157348677508703507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 91.28419
 --- !u!1 &5159548486169214034
 GameObject:
   m_ObjectHideFlags: 0
@@ -10743,6 +13608,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 58.56211
+--- !u!1 &5161062882382180208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4265075951011957568}
+  - component: {fileID: 3839272240727351599}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4265075951011957568
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5161062882382180208}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 455.87714, y: 28.143425, z: -151.80643}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 38
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3839272240727351599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5161062882382180208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 123.97876
 --- !u!1 &5169444170952961956
 GameObject:
   m_ObjectHideFlags: 0
@@ -10787,6 +13696,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 109.85206
+--- !u!1 &5193572751578046460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 28877648003773826}
+  - component: {fileID: 7582528151206822995}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &28877648003773826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5193572751578046460}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 133.67262, y: -14.9820385, z: 27.639692}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 96
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7582528151206822995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5193572751578046460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 126.94603
 --- !u!1 &5199896563802703178
 GameObject:
   m_ObjectHideFlags: 0
@@ -10831,6 +13784,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 62.440945
+--- !u!1 &5214169737470876776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5643331746877531054}
+  - component: {fileID: 3873707619247685464}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5643331746877531054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5214169737470876776}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 190.37134, y: 24.895544, z: -337.10336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 54
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3873707619247685464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5214169737470876776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 95.94567
 --- !u!1 &5219444669792676113
 GameObject:
   m_ObjectHideFlags: 0
@@ -10963,6 +13960,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 125.743866
+--- !u!1 &5256331668421303179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7464896029743062719}
+  - component: {fileID: 6282587173679627403}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7464896029743062719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5256331668421303179}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.9922333, y: 1.1551237, z: -91.537895}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 78
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6282587173679627403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5256331668421303179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 46.0107
 --- !u!1 &5263329185967738807
 GameObject:
   m_ObjectHideFlags: 0
@@ -11051,6 +14092,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 94.85971
+--- !u!1 &5301387184534327742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1841074882873257660}
+  - component: {fileID: 4702392454326435368}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1841074882873257660
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5301387184534327742}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.7212902, y: -0.30719197, z: -104.108}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 76
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4702392454326435368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5301387184534327742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 54.612587
 --- !u!1 &5307993529173702285
 GameObject:
   m_ObjectHideFlags: 0
@@ -11139,6 +14224,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 80.12058
+--- !u!1 &5350977424863945993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8513953258756885816}
+  - component: {fileID: 8896446811847838253}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8513953258756885816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5350977424863945993}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 383.07327, y: 11.951666, z: 137.13606}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8896446811847838253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5350977424863945993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 75.863686
 --- !u!1 &5401366999683572712
 GameObject:
   m_ObjectHideFlags: 0
@@ -11799,6 +14928,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 88.56226
+--- !u!1 &5667274647997202402
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8211693112155686486}
+  - component: {fileID: 5876826492490769960}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8211693112155686486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667274647997202402}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 120.77372, y: 8.3214655, z: -206.61606}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 66
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5876826492490769960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667274647997202402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 70.075806
 --- !u!1 &5671981046946060752
 GameObject:
   m_ObjectHideFlags: 0
@@ -11843,6 +15016,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 60.273674
+--- !u!1 &5690989767922108893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1232969055582884281}
+  - component: {fileID: 2892469217731409743}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1232969055582884281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5690989767922108893}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 36.306087, y: -17.161243, z: 0.38139373}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 91
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2892469217731409743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5690989767922108893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 96.38931
 --- !u!1 &5720757682061859807
 GameObject:
   m_ObjectHideFlags: 0
@@ -12228,7 +15445,7 @@ Transform:
   - {fileID: 6946256495937465331}
   - {fileID: 1239427044643696161}
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5813459336392324877
 GameObject:
@@ -12450,6 +15667,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 44.996307
+--- !u!1 &5906314221027336316
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1730992275915219760}
+  - component: {fileID: 5490942747803658294}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1730992275915219760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5906314221027336316}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 496.16742, y: 39.49436, z: 157.2938}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5490942747803658294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5906314221027336316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 40.955097
 --- !u!1 &5967645072671061002
 GameObject:
   m_ObjectHideFlags: 0
@@ -12594,7 +15855,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos10
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -12605,13 +15866,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5985180028640361288}
-  m_LocalRotation: {x: 0, y: -0.7443115, z: 0, w: 0.6678327}
-  m_LocalPosition: {x: 2.619, y: -0.001, z: 1.08}
+  m_LocalRotation: {x: -0, y: -0.36162472, z: 0, w: -0.93232375}
+  m_LocalPosition: {x: 0.126, y: -0.04283, z: -0.244}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 23
-  m_LocalEulerAnglesHint: {x: 0, y: -96.2, z: 0}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: -317.6, z: 0}
 --- !u!1 &5985857947627606512
 GameObject:
   m_ObjectHideFlags: 0
@@ -13008,6 +16269,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 60
+--- !u!1 &6082578096896676386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7904265855477321701}
+  - component: {fileID: 4627190018434590642}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7904265855477321701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6082578096896676386}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 112.16032, y: -20.810877, z: 23.692984}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 95
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4627190018434590642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6082578096896676386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 125.57634
 --- !u!1 &6096431110045696304
 GameObject:
   m_ObjectHideFlags: 0
@@ -13184,6 +16489,226 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 69.20485
+--- !u!1 &6164675096432506853
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6149219165537960233}
+  - component: {fileID: 2069576344281645263}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6149219165537960233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6164675096432506853}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 526.434, y: 51.72674, z: 129.80322}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2069576344281645263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6164675096432506853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 48.843994
+--- !u!1 &6168558289538916238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7635084122728205835}
+  - component: {fileID: 5504568451091635936}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7635084122728205835
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6168558289538916238}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -10.701006, y: 3.6363394, z: -44.340622}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 85
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5504568451091635936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6168558289538916238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 36.172825
+--- !u!1 &6227780863108076613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6410637578016246170}
+  - component: {fileID: 6624211526204047703}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6410637578016246170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6227780863108076613}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 532.1148, y: 52.91977, z: 123.242805}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6624211526204047703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6227780863108076613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 55.16378
+--- !u!1 &6230248285934758562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3268660322402769929}
+  - component: {fileID: 4619958885270504033}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3268660322402769929
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230248285934758562}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 418.82675, y: 17.890915, z: -221.48523}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 41
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4619958885270504033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230248285934758562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 140.33725
+--- !u!1 &6254307785668871016
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8665035251560035744}
+  - component: {fileID: 855128428604177932}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8665035251560035744
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6254307785668871016}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -13.417688, y: 4.738491, z: -55.795803}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 83
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &855128428604177932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6254307785668871016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 37.863937
 --- !u!1 &6258793456406726001
 GameObject:
   m_ObjectHideFlags: 0
@@ -13272,6 +16797,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 64.73074
+--- !u!1 &6299717535013388789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5562407675651840179}
+  - component: {fileID: 4050761784993380257}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5562407675651840179
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6299717535013388789}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -13.367561, y: 4.1147757, z: -69.80218}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 81
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4050761784993380257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6299717535013388789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 44.7084
+--- !u!1 &6306289186250851972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2264966208378640300}
+  - component: {fileID: 3900911788989905190}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2264966208378640300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6306289186250851972}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 173.78157, y: -0.11737412, z: 33.999504}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 98
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3900911788989905190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6306289186250851972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 127.275925
 --- !u!1 &6312587354059730264
 GameObject:
   m_ObjectHideFlags: 0
@@ -13404,6 +17017,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 50.23664
+--- !u!1 &6381457917095694145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 663018681736323208}
+  - component: {fileID: 3166132655082902141}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &663018681736323208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6381457917095694145}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 105.2, y: 6.621645, z: -190.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 67
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3166132655082902141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6381457917095694145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 73.82685
 --- !u!1 &6390061121528215152
 GameObject:
   m_ObjectHideFlags: 0
@@ -13668,6 +17325,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 60
+--- !u!1 &6529976362396005125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1860257608442035672}
+  - component: {fileID: 1348340183510903762}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1860257608442035672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6529976362396005125}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 18.969831, y: -0.6123659, z: -120.853134}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 74
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1348340183510903762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6529976362396005125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 84.70898
 --- !u!1 &6537397404485239044
 GameObject:
   m_ObjectHideFlags: 0
@@ -13768,7 +17469,7 @@ GameObject:
   m_Layer: 0
   m_Name: pos8
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -13779,13 +17480,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6577853050640574312}
-  m_LocalRotation: {x: 0, y: -0.78693503, z: 0, w: 0.6170359}
-  m_LocalPosition: {x: 2.241, y: -0.0062, z: 1.054}
+  m_LocalRotation: {x: -0, y: -0.5067866, z: 0, w: -0.8620715}
+  m_LocalPosition: {x: 0.616, y: -0.1553, z: -0.086}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 21
-  m_LocalEulerAnglesHint: {x: 0, y: -103.8, z: 0}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: -299.1, z: 0}
 --- !u!1 &6604394393586728380
 GameObject:
   m_ObjectHideFlags: 0
@@ -14006,6 +17707,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 55.947533
+--- !u!1 &6727105749467539835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4884567479490970163}
+  - component: {fileID: 6486261946567590991}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4884567479490970163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6727105749467539835}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 537.41907, y: 53.63256, z: 115.41966}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6486261946567590991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6727105749467539835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 59.503742
 --- !u!1 &6734483032922223630
 GameObject:
   m_ObjectHideFlags: 0
@@ -14314,6 +18059,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 68.41515
+--- !u!1 &6848954298384859682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3787797677577060488}
+  - component: {fileID: 1491023683754394527}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3787797677577060488
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6848954298384859682}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 57.86588, y: 0.52599955, z: -151.23889}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 71
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1491023683754394527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6848954298384859682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 89.93218
 --- !u!1 &6858890255569568085
 GameObject:
   m_ObjectHideFlags: 0
@@ -14534,6 +18323,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 63.958397
+--- !u!1 &7041134400359979200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1635380954764229382}
+  - component: {fileID: 7867690447120001441}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1635380954764229382
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7041134400359979200}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 284.1, y: 26.43567, z: 71.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 103
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7867690447120001441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7041134400359979200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 136.45926
 --- !u!1 &7059933982446031318
 GameObject:
   m_ObjectHideFlags: 0
@@ -14798,6 +18631,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 39.446075
+--- !u!1 &7131181148597338302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 389604013049400078}
+  - component: {fileID: 2228236696308057585}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &389604013049400078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7131181148597338302}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 262.57388, y: 22.963259, z: -329.7183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 50
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &2228236696308057585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7131181148597338302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 111.3353
 --- !u!1 &7147814098616791908
 GameObject:
   m_ObjectHideFlags: 0
@@ -14842,6 +18719,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 21.486044
+--- !u!1 &7172800621666913543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8428178463811465761}
+  - component: {fileID: 6850372589152970329}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8428178463811465761
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7172800621666913543}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 522.15216, y: 44.14549, z: -70.69155}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6850372589152970329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7172800621666913543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 85.96546
+--- !u!1 &7181119329557234481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3553701831836177303}
+  - component: {fileID: 1773788853650034723}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3553701831836177303
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7181119329557234481}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 68.493576, y: 1.6433432, z: -161.72842}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 70
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1773788853650034723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7181119329557234481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 86.34033
 --- !u!1 &7214247036608392125
 GameObject:
   m_ObjectHideFlags: 0
@@ -14930,6 +18895,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 58.90931
+--- !u!1 &7341710900660400939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7547745284497337325}
+  - component: {fileID: 3423907260403746473}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7547745284497337325
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7341710900660400939}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.507483, y: -7.2878156, z: -15.765228}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 89
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &3423907260403746473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7341710900660400939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 76.55918
 --- !u!1 &7379869590651284675
 GameObject:
   m_ObjectHideFlags: 0
@@ -15458,6 +19467,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 68.53348
+--- !u!1 &7728637709407623594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 712964007588729468}
+  - component: {fileID: 5418657549207659147}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &712964007588729468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7728637709407623594}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 473.7259, y: 29.084826, z: 169.30804}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5418657549207659147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7728637709407623594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 46.073524
 --- !u!1 &7731379737649302006
 GameObject:
   m_ObjectHideFlags: 0
@@ -15546,6 +19599,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 123.013435
+--- !u!1 &7749846570749866332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1617532800602276745}
+  - component: {fileID: 8099964649949146421}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1617532800602276745
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749846570749866332}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 281.7507, y: 21.79321, z: -324.05725}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 49
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8099964649949146421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749846570749866332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 113.60208
+--- !u!1 &7783489418844215534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5661561517508382909}
+  - component: {fileID: 1854984137637056341}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5661561517508382909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7783489418844215534}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 135, y: 22.564564, z: -308.42108}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 58
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1854984137637056341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7783489418844215534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 69.545876
 --- !u!1 &7815160000070083408
 GameObject:
   m_ObjectHideFlags: 0
@@ -15678,6 +19819,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 58.181606
+--- !u!1 &7841283891561450191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6347053874664434667}
+  - component: {fileID: 8636526190054511251}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6347053874664434667
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7841283891561450191}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 521.6501, y: 50.737007, z: 136.24617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8636526190054511251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7841283891561450191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 44.264904
 --- !u!1 &7852982338323869669
 GameObject:
   m_ObjectHideFlags: 0
@@ -15810,6 +19995,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 38.132545
+--- !u!1 &7876894609622450314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5070764548385640770}
+  - component: {fileID: 1558647506334230226}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5070764548385640770
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7876894609622450314}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 501.5381, y: 42.16779, z: 153.46336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1558647506334230226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7876894609622450314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 40.13663
 --- !u!1 &7936677299382376276
 GameObject:
   m_ObjectHideFlags: 0
@@ -15942,6 +20171,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 89.53501
+--- !u!1 &8004690021237768708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8904849784630606792}
+  - component: {fileID: 5104405544561548202}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8904849784630606792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8004690021237768708}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.297104, y: 4.4228706, z: -49.949677}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 84
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5104405544561548202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8004690021237768708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 35.89303
+--- !u!1 &8022091701214041366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7420161513694209726}
+  - component: {fileID: 1561370801877470436}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7420161513694209726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8022091701214041366}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 404.70636, y: 12.827987, z: 155.61465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &1561370801877470436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8022091701214041366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 79.155014
 --- !u!1 &8039794547704103442
 GameObject:
   m_ObjectHideFlags: 0
@@ -15986,6 +20303,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 138.73969
+--- !u!1 &8109976564785803740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 658227138156014025}
+  - component: {fileID: 5246678834457336084}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &658227138156014025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109976564785803740}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 516.9879, y: 48.921936, z: 141.31308}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &5246678834457336084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109976564785803740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 44.159866
 --- !u!1 &8145576645175912376
 GameObject:
   m_ObjectHideFlags: 0
@@ -16030,6 +20391,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 92.65087
+--- !u!1 &8170748339125631257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8080103458603624137}
+  - component: {fileID: 4113480022889785817}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8080103458603624137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8170748339125631257}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.72575, y: -2.994402, z: -24.037912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 88
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &4113480022889785817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8170748339125631257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 64.457054
+--- !u!1 &8173099311559753074
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1257220413216813141}
+  - component: {fileID: 8565441089730520084}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1257220413216813141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8173099311559753074}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 214.91829, y: 17.743689, z: 42.432327}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 100
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8565441089730520084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8173099311559753074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 123.3006
 --- !u!1 &8181350225372217717
 GameObject:
   m_ObjectHideFlags: 0
@@ -16250,6 +20699,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 64.664
+--- !u!1 &8273248470942064083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6972825633331280859}
+  - component: {fileID: 6806299687935889347}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6972825633331280859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8273248470942064083}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 557.63715, y: 51.5245, z: 65.79704}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &6806299687935889347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8273248470942064083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 88.67849
 --- !u!1 &8275765438018738094
 GameObject:
   m_ObjectHideFlags: 0
@@ -16294,6 +20787,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 76.35607
+--- !u!1 &8301774001066042233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7198436730666368976}
+  - component: {fileID: 8392434599395338443}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7198436730666368976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8301774001066042233}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 173.7, y: 24.901527, z: -329.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 55
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8392434599395338443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8301774001066042233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 92.16809
 --- !u!1 &8323097094376845347
 GameObject:
   m_ObjectHideFlags: 0
@@ -16338,6 +20875,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 111.67448
+--- !u!1 &8378743991599171669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7610496306750922652}
+  - component: {fileID: 722529150113105792}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7610496306750922652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378743991599171669}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 506.07214, y: 44.179966, z: 149.29198}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &722529150113105792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378743991599171669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 39.933456
 --- !u!1 &8381767903445368892
 GameObject:
   m_ObjectHideFlags: 0
@@ -16558,6 +21139,94 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 43.21393
+--- !u!1 &8517812038684347792
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3151416363560144231}
+  - component: {fileID: 7030001912372058760}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3151416363560144231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8517812038684347792}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 160, y: 24.441607, z: -322.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 56
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7030001912372058760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8517812038684347792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 82.87784
+--- !u!1 &8532785970013284565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6257282232599060046}
+  - component: {fileID: 8863607539165323383}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6257282232599060046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532785970013284565}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 511.2737, y: 46.428562, z: 145.44196}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &8863607539165323383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8532785970013284565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 42.32053
 --- !u!1 &8544566111664601940
 GameObject:
   m_ObjectHideFlags: 0
@@ -16866,6 +21535,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 30.251915
+--- !u!1 &8663682432178162069
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9122481679409919704}
+  - component: {fileID: 7166352488073738782}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9122481679409919704
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8663682432178162069}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 236.67247, y: 24.28112, z: 47.220425}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 101
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7166352488073738782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8663682432178162069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 124.45167
 --- !u!1 &8681127777844061968
 GameObject:
   m_ObjectHideFlags: 0
@@ -17658,7 +22371,7 @@ Transform:
   - {fileID: 763548448074147345}
   - {fileID: 5035765092378349959}
   m_Father: {fileID: 626278045478614887}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8869715872175107313
 GameObject:
@@ -17924,6 +22637,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade_recomendada: 70.83159
+--- !u!1 &8981815145481187487
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4808561385047127469}
+  - component: {fileID: 7089554391998314601}
+  m_Layer: 0
+  m_Name: waypoint 1(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4808561385047127469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8981815145481187487}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 121.27059, y: 17.031944, z: -259.65872}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4640175850383282033}
+  m_RootOrder: 62
+  m_LocalEulerAnglesHint: {x: 0, y: 66.2, z: 0}
+--- !u!114 &7089554391998314601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8981815145481187487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04db29205e86d7749bd84293705a5593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidade_recomendada: 78.91508
 --- !u!1 &8995242026453250360
 GameObject:
   m_ObjectHideFlags: 0
@@ -18246,6 +23003,10 @@ PrefabInstance:
     - target: {fileID: 1231438778025043940, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_Name
       value: wayp3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1231438778025043940, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1292241678566977036, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18641,7 +23402,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5791460022592965415, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5791460022592965415, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_LocalScale.x
@@ -18657,11 +23418,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5791460022592965415, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.151875
+      value: 3.992
       objectReference: {fileID: 0}
     - target: {fileID: 5791460022592965415, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0175
+      value: 2.216
       objectReference: {fileID: 0}
     - target: {fileID: 5791460022592965415, guid: a8ffc47d4bef0534d8f0e499953c6068, type: 3}
       propertyPath: m_LocalPosition.z
@@ -18989,16 +23750,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: FullTrack
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d386808a02c33ad45b60a1f07c449146, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d386808a02c33ad45b60a1f07c449146, type: 3}
---- !u!4 &1097266345319655285 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: d386808a02c33ad45b60a1f07c449146, type: 3}
-  m_PrefabInstance: {fileID: 626278043852832926}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &320201158858948047 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d386808a02c33ad45b60a1f07c449146, type: 3}
+  m_PrefabInstance: {fileID: 626278043852832926}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1097266345319655285 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: d386808a02c33ad45b60a1f07c449146, type: 3}
   m_PrefabInstance: {fileID: 626278043852832926}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &626278043852832924
@@ -19015,6 +23780,103 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5495902117074765545, guid: d386808a02c33ad45b60a1f07c449146, type: 3}
+--- !u!1001 &5001599275016912329
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 626278045478614887}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.00625
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.00625
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.00625
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.914
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.373
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+      propertyPath: m_Name
+      value: Race Track
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+--- !u!4 &4819970319983221282 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+  m_PrefabInstance: {fileID: 5001599275016912329}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5307538183112016024 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
+  m_PrefabInstance: {fileID: 5001599275016912329}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &490370497017614860
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307538183112016024}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3492422126828055511, guid: 10c179739d7ee1f41a3674a427e3e818, type: 3}
 --- !u!1001 &5841544205714528787
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19024,7 +23886,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 45c8352ac34aa7449892e84049586503, type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 45c8352ac34aa7449892e84049586503, type: 3}
       propertyPath: m_LocalScale.x

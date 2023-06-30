@@ -231,7 +231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pista:
   - {fileID: 835718510}
-  - {fileID: 0}
+  - {fileID: 1400327794}
 --- !u!1001 &835718509
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -287,6 +287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pista1
       objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614888, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6494988261021107758, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
       propertyPath: carros.Array.data[0]
       value: 
@@ -301,4 +305,78 @@ PrefabInstance:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 626278045478614888, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
   m_PrefabInstance: {fileID: 835718509}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1400327793
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614887, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614888, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_Name
+      value: pista2
+      objectReference: {fileID: 0}
+    - target: {fileID: 626278045478614888, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494988261021107758, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: carros.Array.data[0]
+      value: 
+      objectReference: {fileID: 4970119800584501623, guid: d07a060533c35974486554259654a00a, type: 3}
+    - target: {fileID: 6494988261021107758, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+      propertyPath: carros.Array.data[1]
+      value: 
+      objectReference: {fileID: 4970119800584501623, guid: 24aeaa24514de004d9f93919f1ef9190, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+--- !u!1 &1400327794 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 626278045478614888, guid: d25ab8f5faeb2f349a91f9aa257ec02e, type: 3}
+  m_PrefabInstance: {fileID: 1400327793}
   m_PrefabAsset: {fileID: 0}

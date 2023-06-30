@@ -960,7 +960,7 @@ WheelCollider:
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
   m_ForceAppPointDistance: 0
-  m_Mass: 20
+  m_Mass: 50
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
     m_ExtremumSlip: 0.4
@@ -1914,7 +1914,7 @@ WheelCollider:
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
   m_ForceAppPointDistance: 0
-  m_Mass: 20
+  m_Mass: 50
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
     m_ExtremumSlip: 0.4
@@ -3285,7 +3285,7 @@ WheelCollider:
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
   m_ForceAppPointDistance: 0
-  m_Mass: 20
+  m_Mass: 50
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
     m_ExtremumSlip: 0.4
@@ -3804,8 +3804,8 @@ Transform:
   - {fileID: 2027523958405267922}
   - {fileID: 4302734441134286869}
   - {fileID: 1747997610913449647}
-  - {fileID: 7487019148097153472}
   - {fileID: 8487080189183205979}
+  - {fileID: 7487019148097153472}
   - {fileID: 7260250361410189692}
   - {fileID: 3099396343362839387}
   - {fileID: 1801943062664523937}
@@ -3827,7 +3827,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &7906056184958055280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4306,7 +4306,7 @@ Transform:
   m_Children:
   - {fileID: 9197108511083099473}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!146 &5935510090758865840
 WheelCollider:
@@ -4323,7 +4323,7 @@ WheelCollider:
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
   m_ForceAppPointDistance: 0
-  m_Mass: 20
+  m_Mass: 50
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
     m_ExtremumSlip: 0.4
@@ -5744,7 +5744,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 7fe4cf686567e0e4593cac532ad00a72, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fe4cf686567e0e4593cac532ad00a72, type: 3}
       propertyPath: m_LocalPosition.x

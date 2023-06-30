@@ -76,12 +76,12 @@ public class carros : MonoBehaviour
         voltas ++;
     }
     public void descapotar(){
-        if(transform.eulerAngles.z>40||transform.eulerAngles.z<-40){transform.localRotation = Quaternion.Euler( transform.eulerAngles.x,  transform.eulerAngles.y, 0);}
+        if(transform.eulerAngles.z>60||transform.eulerAngles.z<-60){transform.localRotation = Quaternion.Euler( transform.eulerAngles.x,  transform.eulerAngles.y, 0);}
         
     }
     public void incializar(){
         rig = GetComponent<Rigidbody>();
-        parent_waiponts = GameObject.Find("wayp3");
+        parent_waiponts = GameObject.Find("novo way point");
         lista_waipoints = parent_waiponts.GetComponentsInChildren<Waypoint>();
         lista_transform_waiponts = parent_waiponts.GetComponentsInChildren<Transform>();
         
