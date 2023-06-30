@@ -499,10 +499,10 @@ MonoBehaviour:
   angulo_giro: 0
   veloKMH: 0
   rpm: 0
-  maxRPM: 6000
-  minRPM: 3000
-  maxTorque: 20000
-  forca_freio: 50000
+  maxRPM: 6500
+  minRPM: 3500
+  maxTorque: 25000
+  forca_freio: 55000
   forcafinal: {x: 0, y: 0, z: 0}
   instabilidadeTravar: 5000
   checkpoint_contagem: 0
@@ -536,6 +536,8 @@ MonoBehaviour:
   pos_temp: 0
   volta_temp: 0
   pos_volta_temp: 0
+  cor_nome: 
+  tipo_carro: 0
   pos: {x: 0, y: 0, z: 0}
   rot: {x: 0, y: 0, z: 0, w: 0}
   curvar: 0

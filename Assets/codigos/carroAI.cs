@@ -23,6 +23,44 @@ public class carroAI : carros
          render[i].material = materiais[cor_carro];
       }
       cor_nome = materiais[cor_carro].name;
+        float rand = Random.Range(0, 10);
+        switch (rand)
+        {
+            case 0:
+                nome = "Gabriel";
+                break;
+            case 1:
+                nome = "Beatriz";
+                break;
+            case 2:
+                nome = "Expedito";
+                break;
+            case 3:
+                nome = "Greice";
+                break;
+            case 4:
+                nome = "Bruna";
+                break;
+            case 5:
+                nome = "Fernanda";
+                break;
+            case 6:
+                nome = "Raimundo";
+                break;
+            case 7:
+                nome = "Leandro";
+                break;
+            case 8:
+                nome = "Osmar";
+                break;
+            case 9:
+                nome = "Maria";
+                break;
+            case 10:
+                nome = "Tiago";
+                break;
+
+        }
     }
 
     void Update()

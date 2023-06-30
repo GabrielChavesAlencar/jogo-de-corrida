@@ -105,10 +105,10 @@ public class carros : MonoBehaviour
         if(veloKMH > 40f){
             float angulo = Vector3.Angle(transform.forward, rig.velocity);
             float valorfinal = (angulo / 10f) - 0.3f;
-            if(audioDerrapar!=null){audioDerrapar.volume = Mathf.Clamp(valorfinal,0f,1f);}
+            //if(audioDerrapar!=null){audioDerrapar.volume = Mathf.Clamp(valorfinal,0f,1f);}
         }
         
-        if(audioDerrapar!=null){if(veloKMH<=20){audioDerrapar.volume =0;}}
+       // if(audioDerrapar!=null){if(veloKMH<=20){audioDerrapar.volume =0;}}
     }
 
     public void virar(float valor){
@@ -182,7 +182,8 @@ public class carros : MonoBehaviour
             if(audioCarro!=null){
                 audioCarro.Stop();
                 audioCarro.clip = somCarro[marcha_atual];
-                audioCarro.Play();
+                if (!audioCarro.isPlaying) { audioCarro.Play(); }
+                
             }
         }
         if(rpm < minRPM){
@@ -193,7 +194,10 @@ public class carros : MonoBehaviour
             if(audioCarro!=null){
                 audioCarro.Stop();
                 audioCarro.clip = somCarro[marcha_atual];
-                audioCarro.Play();
+                if (!audioCarro.isPlaying)
+                {
+                    audioCarro.Play();
+                }
             }
         }
         

@@ -436,14 +436,8 @@ MonoBehaviour:
   - {fileID: 2834110982761222553}
   - {fileID: 6725892216707942574}
   - {fileID: 8352550175729494031}
-  sprites_ape:
-  - {fileID: 21300000, guid: 960ad0b5cb037ef4c8505af9f1dbab0a, type: 3}
-  - {fileID: 21300000, guid: 291fc17f966090f4ead6cd46fe6d7143, type: 3}
-  - {fileID: 21300000, guid: 72c5f87a9fe67d546bf2fbf9c78098b1, type: 3}
-  - {fileID: 21300000, guid: ed19cf06c349ba54fbed91985c95463c, type: 3}
-  - {fileID: 21300000, guid: 1782128b8568ab04faea6394957b942c, type: 3}
-  - {fileID: 21300000, guid: 2541e642fddbff4438751afcecb57bf8, type: 3}
-  - {fileID: 21300000, guid: b508f250fdfc3574295ec2788e27752b, type: 3}
+  sprites_carro1: []
+  sprites_carro2: []
 --- !u!1 &574230787270828213
 GameObject:
   m_ObjectHideFlags: 0
@@ -3821,10 +3815,10 @@ MonoBehaviour:
   angulo_giro: 0
   veloKMH: 0
   rpm: 0
-  maxRPM: 3000
-  minRPM: 1500
-  maxTorque: 12500
-  forca_freio: 25000
+  maxRPM: 3300
+  minRPM: 1800
+  maxTorque: 15500
+  forca_freio: 28000
   forcafinal: {x: 0, y: 0, z: 0}
   instabilidadeTravar: 2500
   checkpoint_contagem: 0
@@ -3858,6 +3852,8 @@ MonoBehaviour:
   pos_temp: 0
   volta_temp: 0
   pos_volta_temp: 0
+  cor_nome: 
+  tipo_carro: 0
   pos: {x: 0, y: 0, z: 0}
   rot: {x: 0, y: 0, z: 0, w: 0}
   temporizador: 0
