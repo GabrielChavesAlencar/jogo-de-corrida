@@ -2056,13 +2056,13 @@ MonoBehaviour:
   qt_carros: 3
   carro_player: 1
   carros:
-  - {fileID: 7548420543866058772, guid: 24f88f43169d3a445b28454bbbfa7cb8, type: 3}
+  - {fileID: 4970119800584501623, guid: 24aeaa24514de004d9f93919f1ef9190, type: 3}
   - {fileID: 4970119800584501623, guid: d2ae631c47056af49ac51169193cd9ff, type: 3}
   - {fileID: 2119970067451361834, guid: 8a5558c4763a75b40bdc1ca047187055, type: 3}
   - {fileID: 7540803322981163868, guid: 1aab23efd4bf9284db488ff479ab6b1f, type: 3}
   carros_jogador:
-  - {fileID: 2051230058411963927, guid: 1bb971c1167db7b47b95d628243ecdca, type: 3}
-  - {fileID: 7252288111604182852, guid: c7a28445c833ec44197a51062784180a, type: 3}
+  - {fileID: 7252288111604182852, guid: 7b8bea354de6a2e47bbe5e5f903bd41a, type: 3}
+  - {fileID: 7252288111604182852, guid: 2e224e75044bedd40bbc80b84e5bdfdc, type: 3}
   - {fileID: 2895694303206476182, guid: 2d3a757bfa681ae48a798393d8fe18bb, type: 3}
   - {fileID: 1220415270001475052, guid: 8bd531f97c919b049b47d23ef3a41d61, type: 3}
   posicoes:

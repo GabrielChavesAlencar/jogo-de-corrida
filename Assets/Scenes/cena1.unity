@@ -290,15 +290,11 @@ PrefabInstance:
     - target: {fileID: 6494988261021107758, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
       propertyPath: carros.Array.data[0]
       value: 
+      objectReference: {fileID: 4970119800584501623, guid: d07a060533c35974486554259654a00a, type: 3}
+    - target: {fileID: 6494988261021107758, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
+      propertyPath: carros.Array.data[1]
+      value: 
       objectReference: {fileID: 4970119800584501623, guid: 24aeaa24514de004d9f93919f1ef9190, type: 3}
-    - target: {fileID: 6494988261021107758, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
-      propertyPath: carros_jogador.Array.data[0]
-      value: 
-      objectReference: {fileID: 7252288111604182852, guid: 2e224e75044bedd40bbc80b84e5bdfdc, type: 3}
-    - target: {fileID: 6494988261021107758, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
-      propertyPath: carros_jogador.Array.data[1]
-      value: 
-      objectReference: {fileID: 2051230058411963927, guid: 1bb971c1167db7b47b95d628243ecdca, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61d25cf79dd845e408b4977315a28637, type: 3}
 --- !u!1 &835718510 stripped
