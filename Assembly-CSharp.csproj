@@ -65,6 +65,7 @@
     <Compile Include="Assets\codigos\carros.cs" />
     <Compile Include="Assets\codigos\carroAI.cs" />
     <Compile Include="Assets\codigos\Waypoint.cs" />
+    <Compile Include="Assets\codigos\botao.cs" />
     <Compile Include="Assets\codigos\InstanciadordePiloto.cs" />
     <Compile Include="Assets\codigos\rotacaoRodas.cs" />
     <Compile Include="Assets\codigos\jogador.cs" />
@@ -73,7 +74,7 @@
     <Compile Include="Assets\codigos\InstanciadordePilotoInimigo.cs" />
     <Compile Include="Assets\codigos\menu.cs" />
     <Compile Include="Assets\codigos\HUD_carro.cs" />
-    <Compile Include="Assets\codigos\botao.cs" />
+    <Compile Include="Assets\codigos\cameradojogo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

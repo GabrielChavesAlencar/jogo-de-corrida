@@ -232,7 +232,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1747997610913449647
 RectTransform:
   m_ObjectHideFlags: 0
@@ -287,7 +287,7 @@ RectTransform:
   - {fileID: 5132426469600025985}
   - {fileID: 5580706359695614901}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -943,7 +943,7 @@ Transform:
   m_Children:
   - {fileID: 7948351426300189838}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!146 &1333168253257579979
 WheelCollider:
@@ -960,7 +960,7 @@ WheelCollider:
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
   m_ForceAppPointDistance: 0
-  m_Mass: 50
+  m_Mass: 60
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
     m_ExtremumSlip: 0.4
@@ -1052,11 +1052,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1902560865375546849}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.21, z: -1.07}
+  m_LocalPosition: {x: 0, y: 1.21, z: -1.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1912425727225120390
 GameObject:
@@ -1088,7 +1088,7 @@ Transform:
   m_Children:
   - {fileID: 472945809602772579}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &791840016036528099
 MonoBehaviour:
@@ -1108,13 +1108,13 @@ MonoBehaviour:
   m_StreamingVersion: 20170927
   m_Priority: 10
   m_StandbyUpdate: 2
-  m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 0}
+  m_LookAt: {fileID: 1990951834390517427}
+  m_Follow: {fileID: 7252288111604182855}
   m_Lens:
     FieldOfView: 60
     OrthographicSize: 5
     NearClipPlane: 0.3
-    FarClipPlane: 1000
+    FarClipPlane: 3000
     Dutch: 0
     LensShift: {x: 0, y: 0}
   m_Transitions:
@@ -1448,7 +1448,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4c41ac9245b87c4192012080077d830, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Damping: 0.5
+  m_Damping: 0.8
 --- !u!114 &8134231510786078474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1800,7 +1800,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5639203061949322618
 Transform:
   m_ObjectHideFlags: 0
@@ -1813,7 +1813,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 15.1, y: 0, z: 0}
 --- !u!20 &6266804767630896674
 Camera:
@@ -1839,7 +1839,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 2000
+  far clip plane: 3000
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -1866,6 +1866,36 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3129089326859421083}
   m_Enabled: 1
+--- !u!1 &3377471096517381903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1990951834390517427}
+  m_Layer: 0
+  m_Name: local
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1990951834390517427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3377471096517381903}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4.3, z: -8.56}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7252288111604182855}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3555805279391701297
 GameObject:
   m_ObjectHideFlags: 0
@@ -1897,7 +1927,7 @@ Transform:
   m_Children:
   - {fileID: 7901132769675369753}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!146 &5475986001753576542
 WheelCollider:
@@ -1914,7 +1944,7 @@ WheelCollider:
     targetPosition: 0.5
   m_SuspensionDistance: 0.3
   m_ForceAppPointDistance: 0
-  m_Mass: 50
+  m_Mass: 60
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
     m_ExtremumSlip: 0.4
@@ -2083,6 +2113,7 @@ MonoBehaviour:
   pressing: 0
   jog: {fileID: 8829232282459352100}
   acao: acelerar
+  objcanvas: {fileID: 0}
 --- !u!1 &4015618224032625321
 GameObject:
   m_ObjectHideFlags: 0
@@ -2221,6 +2252,7 @@ MonoBehaviour:
   pressing: 0
   jog: {fileID: 8829232282459352100}
   acao: direita
+  objcanvas: {fileID: 0}
 --- !u!1 &4197437167944230047
 GameObject:
   m_ObjectHideFlags: 0
@@ -2640,7 +2672,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: -91.5, z: 0}
 --- !u!1 &5582163744192083094
 GameObject:
@@ -2859,6 +2891,7 @@ MonoBehaviour:
   pressing: 0
   jog: {fileID: 8829232282459352100}
   acao: esquerda
+  objcanvas: {fileID: 0}
 --- !u!1 &5806126471649254604
 GameObject:
   m_ObjectHideFlags: 0
@@ -2889,7 +2922,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5170136243768288397
 MonoBehaviour:
@@ -3268,7 +3301,7 @@ Transform:
   m_Children:
   - {fileID: 4326566660804409011}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!146 &2566778920435635497
 WheelCollider:
@@ -3780,6 +3813,7 @@ GameObject:
   - component: {fileID: 1893166618319769174}
   - component: {fileID: 8132518309255051538}
   - component: {fileID: 849322116461148264}
+  - component: {fileID: 1569025496265169725}
   m_Layer: 0
   m_Name: carro 2
   m_TagString: Untagged
@@ -3798,6 +3832,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1990951834390517427}
   - {fileID: 2867344603354343020}
   - {fileID: 5639203061949322618}
   - {fileID: 3357914747714732589}
@@ -3827,7 +3862,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 1
+  m_CollisionDetection: 0
 --- !u!114 &7906056184958055280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3895,7 +3930,7 @@ MonoBehaviour:
   maxRPM: 4500
   minRPM: 2250
   maxTorque: 18750
-  forca_freio: 25000
+  forca_freio: 50000
   forcafinal: {x: 0, y: 0, z: 0}
   instabilidadeTravar: 3750
   checkpoint_contagem: 0
@@ -4039,8 +4074,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 3.1, y: 2.49, z: 8}
-  m_Center: {x: 0, y: 1.5, z: -0.7}
+  m_Size: {x: 3.1, y: 2.49, z: 7}
+  m_Center: {x: 0, y: 1.9, z: -0.9}
 --- !u!82 &849322116461148264
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4137,6 +4172,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!136 &1569025496265169725
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7252288111604182852}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  m_Radius: 1.5
+  m_Height: 8
+  m_Direction: 2
+  m_Center: {x: 0, y: 1.76, z: -0.7}
 --- !u!1 &7358074580379663573
 GameObject:
   m_ObjectHideFlags: 0
@@ -4275,6 +4324,7 @@ MonoBehaviour:
   pressing: 0
   jog: {fileID: 8829232282459352100}
   acao: re
+  objcanvas: {fileID: 0}
 --- !u!1 &7403640494089210714
 GameObject:
   m_ObjectHideFlags: 0
@@ -4306,7 +4356,7 @@ Transform:
   m_Children:
   - {fileID: 9197108511083099473}
   m_Father: {fileID: 7252288111604182855}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!146 &5935510090758865840
 WheelCollider:
@@ -5744,7 +5794,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 7fe4cf686567e0e4593cac532ad00a72, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fe4cf686567e0e4593cac532ad00a72, type: 3}
       propertyPath: m_LocalPosition.x

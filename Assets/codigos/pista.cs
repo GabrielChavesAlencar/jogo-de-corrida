@@ -11,7 +11,11 @@ public class pista : MonoBehaviour
     public Transform [] posicoes;
 
     public int rand_car;
- 
+    public cameradojogo came;
+    public GameObject player;
+    public GameObject obj_camera;
+    public HUD_carro hud;
+
     private void Awake() {
         qt_carros = menu.n_car;
         carro_player = menu.carro_player;
@@ -25,7 +29,12 @@ public class pista : MonoBehaviour
         for(int i = 0; i < qt_carros-1 ; i++) {
             Instantiate(carros[rand_car],posicoes[i].position,posicoes[i].rotation);
         }
-        Instantiate(carros_jogador[carro_player],posicoes[qt_carros-1].position,posicoes[qt_carros-1].rotation);
+        player = Instantiate(carros_jogador[carro_player],posicoes[qt_carros-1].position,posicoes[qt_carros-1].rotation);
+        //came.alvo = player.transform.GetChild(0);
+        hud.carro = player.GetComponent<carros>();
+        obj_camera.SetActive(true);
+
+
     }
 
     // Update is called once per frame

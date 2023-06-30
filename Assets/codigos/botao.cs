@@ -9,8 +9,13 @@ public class botao : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     public float input;
     public float sensibility = 3;
     public bool pressing;
-    public jogador jog;
+    public carros jog;
     public string acao;
+    public HUD_carro objcanvas;
+    private void OnEnable()
+    {
+        jog =  objcanvas.carro;
+    }
     public void OnPointerDown(PointerEventData eventData)
     {
         pressing = true;

@@ -44,7 +44,7 @@ public class HUD_carro : MonoBehaviour
         contagem_dinheiro= false;
         Time.timeScale =1;
         pausa = false;
-        carro = transform.parent.GetComponent<carros>();
+       // carro = transform.parent.GetComponent<carros>();
         lista_carros = FindObjectsOfType<carros>();
         n_voltas=menu.n_lap;
 
