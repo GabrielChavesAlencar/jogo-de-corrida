@@ -87,8 +87,11 @@ public class menu : MonoBehaviour
             if(bancodedados.carregarint("car3")==1){botao_selecionar.SetActive(true);botao_comprar.SetActive(false);valor_car_text.text = "";}
             else{botao_selecionar.SetActive(false);botao_comprar.SetActive(true);valor_car_text.text = "$2500";}
         }
-        
-        
+
+        if (Input.GetKey(KeyCode.Alpha1) && Input.GetKey(KeyCode.Keypad1) && Input.GetKeyDown(KeyCode.Return)) {
+            int temp = bancodedados.carregarint("money");
+            bancodedados.salvarint("money", temp + 200);
+        }
     }
     public void comprar_car(){
         int n = carro_player;
@@ -127,20 +130,20 @@ public class menu : MonoBehaviour
         if(n_pista == 1){image_pista.sprite= sprite_2;}
     }
     public void mudar_imagem_carro(){
-        if(carro_player == 0){image_carro.sprite= car1;nome_carro.text="KART";}
-        if(carro_player == 1){image_carro.sprite= car2;nome_carro.text="POLICE CAR";}
-        if(carro_player == 2){image_carro.sprite= car3;nome_carro.text="CLASSIC CAR";}
-        if(carro_player == 3){image_carro.sprite= car4;nome_carro.text="SPORTING CAR";}
+        if(carro_player == 0){image_carro.sprite= car1;nome_carro.text="CAR";}
+        if(carro_player == 1){image_carro.sprite= car2;nome_carro.text= "SPORTING CAR"; }
+       // if(carro_player == 2){image_carro.sprite= car3;nome_carro.text="CLASSIC CAR";}
+       // if(carro_player == 3){image_carro.sprite= car4;nome_carro.text="SPORTING CAR";}
     }
 
     public void aumentar_n_player(){
         carro_player++;
-        if(carro_player>3){carro_player=0;}
+        if(carro_player>1){carro_player=0;}
         mudar_imagem_carro();
     }
     public void diminuir_n_player(){
         carro_player--;
-        if(carro_player<0){carro_player=3;}
+        if(carro_player<0){carro_player=1;}
        mudar_imagem_carro();
     }
 
